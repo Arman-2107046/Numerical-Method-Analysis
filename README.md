@@ -2,3 +2,4 @@
 Solving equations
 <br>
 Author-Arman Rahman Rafi
+KUET
